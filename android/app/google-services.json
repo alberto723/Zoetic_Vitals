@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335376079371",
+    "firebase_url": "https://zoeticvitals.firebaseio.com",
+    "project_id": "zoeticvitals",
+    "storage_bucket": "zoeticvitals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335376079371:android:93b53a94962e255893850e",
+        "android_client_info": {
+          "package_name": "com.zoetic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335376079371-d5pcf3b704oggqgtrbb0avutludb2afk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrkxkUeLGlefuHMPkcuZnvfsASkUbf0WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335376079371-d5pcf3b704oggqgtrbb0avutludb2afk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
